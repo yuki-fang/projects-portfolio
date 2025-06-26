@@ -1,6 +1,6 @@
 ---
-title: "Technical Experience"
-permalink: /technical-experience/
+title: "Technical Skills"
+permalink: /technical-skills/
 layout: page
 author_profile: true
 ---
