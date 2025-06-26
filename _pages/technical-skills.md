@@ -17,9 +17,11 @@ author_profile: true
 | **CRM & Automation**      | HubSpot, Mailchimp                                                       |
 | **Design**                | Canva, Capcut            |
 
+---
 navigation:
   - title: "Home"
     url: /
   - title: "Technical Skills"
     url: /technical-skills/
   # Other menu items
+---
