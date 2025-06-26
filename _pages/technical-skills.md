@@ -1,7 +1,7 @@
 ---
 title: "Technical Skills"
 permalink: /technical-skills/
-layout: page
+layout: single
 author_profile: true
 ---
 ### 🧠 Programming Languages
