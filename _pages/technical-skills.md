@@ -1,5 +1,5 @@
 ---
-title: "Technical Skills"
+title: "💡 My Technical Skills"
 permalink: /technical-skills/
 layout: single
 author_profile: true
