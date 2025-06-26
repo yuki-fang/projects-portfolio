@@ -47,11 +47,6 @@ author_profile: true
 - **Increased website traffic by 5%** through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting  
 - Directed a 3-month content calendar based on SEO analysis and engagement metrics, achieving an **8% increase in article click-through rates** and a **15% improvement in content engagement**, leading to more effective brand messaging and stronger audience connection
 
-### Brand Marketing Intern @ [humanID](https://www.human-internet.org/)
-*Apr 2022 - Jul 2022*  
-- **Increased website traffic by 5%** through the creation of 24 bi-weekly SEO-focused articles aligned with trending search topics, using engagement data to continuously refine content strategy and improve audience targeting  
-- Directed a 3-month content calendar based on SEO analysis and engagement metrics, achieving an **8% increase in article click-through rates** and a **15% improvement in content engagement**, leading to more effective brand messaging and stronger audience connection
-
 ### Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 *Jan 2022 - May 2022*  
 - **Increased follower count of [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad) by 30%** through producing **300+ posts and reels** tailored to audience interests and trending algorithms  
