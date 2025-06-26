@@ -54,8 +54,8 @@ author_profile: true
 
 ### Global Outreach Marketing Intern @ [New York University Abu Dhabi](https://nyuad.nyu.edu/en/)
 *Jan 2022 - May 2022*  
-- Increased follower count of [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad) by **30%** through producing **300+ posts and reels** tailored to audience interests and trending algorithms  
-- Directed a 5-month content calendar, driving a **30% increase in weekly engagement** and **10% boost in audience retention**  
+- **Increased follower count of [@studyawayatnyuad](https://www.instagram.com/studyawayatnyuad) by 30%** through producing **300+ posts and reels** tailored to audience interests and trending algorithms  
+- **Directed a 5-month content calendar, driving a 30% increase in weekly engagement** and **10% boost in audience retention**  
 - Analyzed social media engagement trends using **RStudio**, reporting insights to the head of social media, leading to a **20% improvement** in content targeting and strategic adjustments
 
 ### Business Development Intern @ [Millie Group](http://www.milliegroup.com)
