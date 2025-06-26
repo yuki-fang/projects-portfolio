@@ -4,7 +4,6 @@ permalink: /technical-skills/
 layout: page
 author_profile: true
 ---
-
 ### 🧠 Programming Languages
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-003B6F?style=for-the-badge&logo=microsoft-excel&logoColor=white)
