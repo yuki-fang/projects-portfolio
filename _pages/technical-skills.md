@@ -8,9 +8,11 @@ author_profile: true
 |--------------------------|---------------------------------------------------------------------------|
 | **Languages**             | SQL, VBA, Python                                                         |
 | **Statistical Analysis**  | R, Microsoft Excel, Stata, Radiant                                        |
-| **Data Visualization**    | Tableau, Power BI, Google Looker Studio                                   |
-| **Intelligence & Analytics** | Google Analytics, Microsoft Clarity, Qualtrics, Brandwatch, Communalytic, Vivvix, Mintel |
-| **IDEs**                  | RStudio, Visual Studio Code, MySQL                                        |
+| **Data Visualization**    | Tableau, Power BI, Google Looker Studio, Gephi                                   |
+| **Web Analytics**         | Google Analytics                                    |
+| **Market & Consumer Insights** | Qualtrics, Brandwatch, Communalytic, Vivvix, Mintel                   |
+| **IDEs**                  | RStudio, Visual Studio Code                                               |
+| **Databases**             | MySQL                                                                     |
+| **Digital Marketing & Advertising** | Google Ads, Google Tag Manager, Meta Ads   
 | **CRM & Automation**      | HubSpot, Mailchimp                                                       |
-| **Design**                | Canva                                                                     |
-
+| **Design**                | Canva, Capcut            |
