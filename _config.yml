@@ -1,21 +1,8 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Yu-Qi (Yuki) Fang
 email: yu-qifang2025@u.northwestern.edu
-description: >- Aspiring Marketing Analyst looking to bridge the gap between data and creativity to drive smarter brand decisions. 
+description: >- 
+  Aspiring Marketing Analyst looking to bridge the gap between data and creativity to drive smarter brand decisions. 
 github_username: yukifang
 minimal_mistakes_skin: default
 search: true
@@ -23,17 +10,13 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+permalink: /:title/
+timezone: "America/Chicago"
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
+# Exclude from processing
 # exclude:
 #   - Gemfile
 #   - Gemfile.lock
@@ -43,10 +26,15 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Plugins (only keep necessary ones)
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+
 author:
-  name   : "Yu-Qi (Yuki) Fang"
-  avatar : "/assets/images/yuki.jpg"
-  bio    : "M.S. in Integrated Marketing Communications @ Northwestern | Data-Driven Marketer"
+  name: "Yu-Qi (Yuki) Fang"
+  avatar: "/assets/images/yuki.jpg"
+  bio: "M.S. in Integrated Marketing Communications @ Northwestern | Data-Driven Marketer"
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-file"
@@ -61,7 +49,6 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yuki-fang"
 
-
 footer:
   links:
     - label: "Email"
@@ -73,11 +60,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yuki-fang"
-      url: "https://github.com/yuki-fang"
 
-
+# Defaults for pages
 defaults:
-  # _pages
   - scope:
       path: "_pages"
       type: pages
