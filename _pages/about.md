@@ -4,8 +4,6 @@ permalink: /about/
 layout: single
 author_profile: true
 ---
-
-## About Me
 Hi, I’m Yuki Fang, a Master’s student in Integrated Marketing Communications at Northwestern University, specializing in Data and Marketing Analytics. I hold a Bachelor's degree in Economics and Data Science from NYU Abu Dhabi.
 
 At Northwestern Medill, I focus on delivering data-driven marketing solutions that drive measurable impact. I’ve used tools like SQL, R, Tableau, and Google Analytics to uncover customer trends, evaluate campaign performance, and build dashboards that inform strategic decisions across industries.
