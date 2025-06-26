@@ -71,3 +71,35 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+# Show your About page as homepage
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+
+# Set About as homepage
+# Replace 'about' if your page filename is different
+# For example, if your about page is `_pages/about.md`
+# And its permalink is `/about/`, you want to override the root `/`
+
+collections:
+  pages:
+    output: true
+
+# Set the homepage manually
+# Point to the about page path
+# Assuming your about page is at _pages/about.md with permalink /about/
+# You’ll make a copy and link it to the root
+
+# Option 1: Rename and repoint permalink
+# _pages/index.md
+title: "About"
+layout: single
+author_profile: true
+permalink: /
+
+# Include your about content here or pull from another file
