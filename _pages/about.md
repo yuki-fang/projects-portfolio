@@ -1,5 +1,5 @@
 ---
-title: "👋 About Me"
+title: "👋 Hi there!"
 permalink: /about/
 layout: single
 author_profile: true
