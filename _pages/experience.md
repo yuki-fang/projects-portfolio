@@ -4,6 +4,7 @@ permalink: /experience/
 layout: single
 author_profile: true
 ---
+*Putting what I’ve learned into action—applying data, strategy, and storytelling in real-world settings.*
 
 ### Graduate Marketing Consultant @ [Mark Anthony Group](https://markanthony.com/)
 *Jun 2025 – Present*
