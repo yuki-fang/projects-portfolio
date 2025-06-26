@@ -16,3 +16,10 @@ author_profile: true
 | **Digital Marketing & Advertising** | Google Ads, Google Tag Manager, Meta Ads   
 | **CRM & Automation**      | HubSpot, Mailchimp                                                       |
 | **Design**                | Canva, Capcut            |
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Technical Skills"
+    url: /technical-skills/
+  # Other menu items
