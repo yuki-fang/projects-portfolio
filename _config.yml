@@ -4,7 +4,7 @@ repository: yuki-fang/projects-portfolio
 title: Yu-Qi (Yuki) Fang
 email: yu-qifang2025@u.northwestern.edu
 description: >-
-  Aspiring Marketing Analyst looking to bridge the gap between data and creativity to drive smarter brand decisions.
+  Aspiring Marketing Analyst looking to bridge the gap between data and creativity to drive smarter business decisions.
 github_username: yukifang
 minimal_mistakes_skin: default
 search: true
@@ -36,32 +36,11 @@ plugins:
 author:
   name: "Yu-Qi (Yuki) Fang"
   avatar: "/assets/images/yuki.jpg"
-  bio: "M.S. in Integrated Marketing Communications @ Northwestern | Data-Driven Marketer"
-  links:
-    - label: "Resume"
-      icon: "fas fa-fw fa-file"
-      url: "/assets/YukiFang_Resume.pdf"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "yu-qifang2025@u.northwestern.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yuki-fang/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yuki-fang"
-
-footer:
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "yu-qifang2025@u.northwestern.edu"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yuki-fang/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/yuki-fang"
+  bio: "M.S. IMC @ Northwestern <br> B.A. Economics @ NYU <br> Data-Driven Marketer"
+  location: "Chicago, Illinois"
+  email: "yu-qifang2025@u.northwestern.edu"
+  github: yuki-fang
+  linkedin: "yuki-fang"
 
 # Defaults for pages
 defaults:
