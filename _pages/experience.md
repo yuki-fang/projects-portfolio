@@ -1,5 +1,5 @@
 ---
-title: "💼 Work Experience"
+title: "💼 My Work Experience"
 permalink: /experience/
 layout: single
 author_profile: true
@@ -8,7 +8,7 @@ author_profile: true
 ### Graduate Marketing Consultant @ [Mark Anthony Group](https://markanthony.com/)
 *Jun 2025 – Present*
 
-### Teaching Assistant @ [Northwestern Kellog School of Management](https://www.kellogg.northwestern.edu/)
+### Teaching Assistant @ [Northwestern Kellogg School of Management](https://www.kellogg.northwestern.edu/)
 *Mar 2025 - Jun 2025*  
 **Course:** [MKTG 479: Critical Thinking in Digital and Social Media Marketing](https://www6.kellogg.northwestern.edu/CourseCatalog/coursecatalog/coursedetail?coursecatalogid=207197) with Professor [Ashlee Humphreys](https://www.kellogg.northwestern.edu/faculty/directory/humphreys_ashlee/)  
 - Led a class of 65 MBA students over a 10-week quarter, supporting instruction in digital and social media marketing strategy  
